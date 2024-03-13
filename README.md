@@ -11,6 +11,8 @@
 - 🌱 I’m currently learning how to function as an adult, but for real this time! Having executive dysfunction is hard, but I'm getting there!
 - 💞️ I’m looking to collaborate on nothing in particular, really. If you'd want me to help with something, you could ask, I guess. I'm really not that good at programming though--just good enough to break things in interesting ways sometimes.
 - 📫 How to reach me: Shoot me an email at \[literally my username\] at HareBrainedMage [✨ dot ✨] c o m. (Screw email scraper bots. If you made one that's good enough to read and interpret that though, you probably deserve to reach me anyways).
+
+- Oh yeah, I'm currently working on a project to make the LSJ files (literally just JSON) in Baldur's Gate 3 more human readable so that artists and other creatives can more easily reference all the graphical data in the game! Larian did a lot of cool stuff with the graphics, and it's great way to learn about mesh and texture modelling, from what I've heard--hopefully my unpacker project makes the learning curve just a tad gentler for some.
 <!--- Throw a scavenger hunt clue or something in here, maybe?--->
 
 <!---
